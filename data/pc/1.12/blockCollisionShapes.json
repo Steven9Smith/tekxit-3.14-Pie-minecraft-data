@@ -268,7 +268,9 @@
 "blue_coral":0,
 "blue_coral_block":1,
 "blue_coral_block_dead":1,
-"blue_coral_dead":0
+"blue_coral_dead":0,
+"seagrass":0,
+"tall_seagrass":0
 },
 "shapes":{"0":[],
 "1":[[0.0,0.0,0.0,1.0,1.0,1.0]],
