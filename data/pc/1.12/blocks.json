@@ -11598,5 +11598,278 @@
     "emitLight": 0,
     "filterLight": 15,
     "resistance": 3600000
+  },
+  {
+    "id": 256,
+    "displayName": "Gysahl Green",
+    "name": "gysahl_green",
+    "hardness": 0,
+    "stackSize": 64,
+    "diggable": true,
+    "boundingBox": "empty",
+    "material": "plant",
+    "variations": [
+      {
+        "metadata": 0,
+        "displayName": "Gysahl Green0"
+      },
+      {
+        "metadata": 1,
+        "displayName": "Gysahl Green1"
+      },
+      {
+        "metadata": 2,
+        "displayName": "Gysahl Green2"
+      },
+      {
+        "metadata": 3,
+        "displayName": "Gysahl Green3"
+      },
+      {
+        "metadata": 4,
+        "displayName": "Gysahl Green4"
+      }
+    ],
+    "drops": [
+      {
+        "drop": 2268,
+        "minCount": 0,
+        "maxCount": 1
+      }
+    ],
+    "transparent": true,
+    "emitLight": 0,
+    "filterLight": 0,
+    "resistance": 0
+  },
+  {
+    "id": 299,
+    "displayName": "Thermal Foundation Ore",
+    "name": "thermal_foundation_ore",
+    "hardness": 3,
+    "stackSize": 64,
+    "diggable": true,
+    "boundingBox": "block",
+    "material": "rock",
+    "harvestTools": {
+      "257": true,
+      "278": true
+    },
+    "variations": [
+      {
+        "metadata": 0,
+        "type": 0,
+        "drops": [
+          {
+            "drop": 2268,
+            "minCount": 0,
+            "maxCount": 1
+            
+          }
+        ],
+        "displayName": "Copper Ore",
+        "name": "copper_ore"
+      },
+      {
+        "metadata": 1,
+        "type": 1,
+        "drops": [
+          {
+            "drop": 2268,
+            "minCount": 0,
+            "maxCount": 1
+            
+          }
+        ],
+        "displayName": "Tin Ore",
+        "name": "tin_ore"
+      },
+      {
+        "metadata": 2,
+        "type": 2,
+        "drops": [
+          {
+            "drop": 2268,
+            "minCount": 0,
+            "maxCount": 1
+            
+          }
+        ],
+        "displayName": "Silver Ore",
+        "name": "silver_ore"
+      },
+      {
+        "metadata": 3,
+        "type": 3,
+        "drops": [
+          {
+            "drop": 2268,
+            "minCount": 0,
+            "maxCount": 1
+            
+          }
+        ],
+        "displayName": "Lead Ore",
+        "name": "lead_ore"
+      },
+      {
+        "metadata": 4,
+        "type": 4,
+        "drops": [
+          {
+            "drop": 2268,
+            "minCount": 0,
+            "maxCount": 1
+            
+          }
+        ],
+        "displayName": "Aluminum Ore",
+        "name": "aluminum_ore"
+      },
+      {
+        "metadata": 5,
+        "type": 5,
+        "drops": [
+          {
+            "drop": 2268,
+            "minCount": 0,
+            "maxCount": 1
+            
+          }
+        ],
+        "displayName": "Nickel Ore",
+        "name": "nickel_ore"
+      },
+      {
+        "metadata": 6,
+        "type": 6,
+        "drops": [
+          {
+            "drop": 2268,
+            "minCount": 0,
+            "maxCount": 1
+            
+          }
+        ],
+        "displayName": "Platinum Ore",
+        "name": "platinum_ore"
+      },
+      {
+        "metadata": 7,
+        "type": 7,
+        "drops": [
+          {
+            "drop": 2268,
+            "minCount": 0,
+            "maxCount": 1
+            
+          }
+        ],
+        "displayName": "Iridium Ore",
+        "name": "iridium_ore"
+      },
+      {
+        "metadata": 8,
+        "type": 8,
+        "drops": [
+          {
+            "drop": 2268,
+            "minCount": 0,
+            "maxCount": 1
+            
+          }
+        ],
+        "displayName": "Mana Infused Ore",
+        "name": "mana_infused_ore"
+      }
+    ],
+    "transparent": false,
+    "emitLight": 0,
+    "filterLight": 15,
+    "resistance": 3
+  },
+  {
+    "id": 1544,
+    "displayName": "Marble",
+    "name": "marble",
+    "hardness": 1.5,
+    "stackSize": 64,
+    "diggable": true,
+    "boundingBox": "block",
+    "material": "rock",
+    "harvestTools": {
+      "257": true,
+      "270": true,
+      "274": true,
+      "278": true,
+      "285": true
+    },
+    "variations": [
+      {
+        "metadata": 0,
+        "drops": [ { "drop": 1544 } ],
+        "displayName": "Marble",
+        "name": "marble"
+      },{
+        "metadata": 0,
+        "drops": [ { "drop": 1545 } ],
+        "displayName": "Polished Marble",
+        "name": "polished_marble"
+      }
+    ],
+    "transparent": false,
+    "emitLight": 0,
+    "filterLight": 15,
+    "resistance": 6
+  },
+  {
+    "id": 3241,
+    "displayName": "Kelp Stem",
+    "name": "kelp_mid",
+    "hardness": 0,
+    "stackSize": 64,
+    "diggable": true,
+    "boundingBox": "empty",
+    "material": "plant",
+    "variations": [
+      {
+        "metadata": 15,
+        "displayName": "Kelp Stem"
+      }
+    ],
+    "drops": [
+      {
+        "drop": 0,
+        "minCount": 0,
+        "maxCount": 1
+      }
+    ],
+    "transparent": true,
+    "emitLight": 0,
+    "filterLight": 0,
+    "resistance": 0
+  },
+  {
+    "id": 5117,
+    "displayName": "Sulfur Ore",
+    "name": "sulfur_ore",
+    "hardness": 3,
+    "stackSize": 64,
+    "diggable": true,
+    "boundingBox": "block",
+    "material": "rock",
+    "harvestTools": {
+      "257": true,
+      "278": true
+    },
+    "drops": [
+      {
+        "drop": 264
+      }
+    ],
+    "transparent": false,
+    "emitLight": 0,
+    "filterLight": 15,
+    "resistance": 3
   }
 ]

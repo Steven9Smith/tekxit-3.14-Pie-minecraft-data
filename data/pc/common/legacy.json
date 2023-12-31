@@ -1681,7 +1681,23 @@
     "255:0": "minecraft:structure_block[mode=save]",
     "255:1": "minecraft:structure_block[mode=load]",
     "255:2": "minecraft:structure_block[mode=corner]",
-    "255:3": "minecraft:structure_block[mode=data]"
+    "255:3": "minecraft:structure_block[mode=data]",
+    "256:0": "minecraft:gysahl_green",
+    "299:0": "minecraft:copper_ore",
+    "299:1": "minecraft:tin_ore",
+    "299:2": "minecraft:silver_ore",
+    "299:3": "minecraft:lead_ore",
+    "299:4": "minecraft:aluminum_ore",
+    "299:5": "minecraft:nickel_ore",
+    "299:6": "minecraft:platinum_ore",
+    "299:7": "minecraft:iridium_ore",
+    "299:8": "minecraft:mana_infused_ore",
+    "299:9": "minecraft:destablized_redstone_ore",
+    "1544:0": "minecraft:marble",
+    "1544:1": "minecraft:polished_marble",
+    "3241:15": "minecraft:kelp_mid",
+    "5117:0": "minecraft:sulfur_ore"
+    
   },
   "items": {
     "0:0": "minecraft:air",
@@ -2327,6 +2343,21 @@
     "2264:0": "minecraft:music_disc_strad",
     "2265:0": "minecraft:music_disc_ward",
     "2266:0": "minecraft:music_disc_11",
-    "2267:0": "minecraft:music_disc_wait"
+    "2267:0": "minecraft:music_disc_wait",
+    "7384:0": "minecraft:gysahl_green",
+    "8434:0": "minecraft:copper_ore",
+    "299:1": "minecraft:tin_ore",
+    "299:2": "minecraft:silver_ore",
+    "299:3": "minecraft:lead_ore",
+    "299:4": "minecraft:aluminum_ore",
+    "299:5": "minecraft:nickel_ore",
+    "299:6": "minecraft:platinum_ore",
+    "299:7": "minecraft:iridium_ore",
+    "299:8": "minecraft:mana_infused_ore",
+    "299:9": "minecraft:destablized_redstone_ore",
+    "1544:0": "minecraft:marble",
+    "1544:1": "minecraft:polished_marble",
+    "3241:15": "minecraft:kelp_mid",
+    "5117:0": "minecraft:sulfur_ore"
   }
 }

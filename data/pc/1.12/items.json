@@ -3173,5 +3173,77 @@
     "displayName": "Wait Disc",
     "name": "record_wait",
     "stackSize": 1
+  }, 
+  {
+    "id": 7384,
+    "displayName": "Gysahl Green",
+    "name": "gysahl_green",
+    "stackSize": 64
+  },
+  {
+    "id": 2272,
+    "displayName": "Lead Ore",
+    "name": "lead_ore",
+    "stackSize": 64
+  }, 
+  {
+    "id": 2273,
+    "displayName": "Nickel Ore",
+    "name": "nickel_ore",
+    "stackSize": 64
+  }, 
+  {
+    "id": 2274,
+    "displayName": "Niter Ore",
+    "name": "niter_ore",
+    "stackSize": 64
+  }, 
+  {
+    "id": 2275,
+    "displayName": "Ruby Ore",
+    "name": "ruby_ore",
+    "stackSize": 64
+  },
+  {
+    "id": 2276,
+    "displayName": "Sapphire Ore",
+    "name": "sapphire_ore",
+    "stackSize": 64
+  },
+  {
+    "id": 2277,
+    "displayName": "Silver Ore",
+    "name": "silver_ore",
+    "stackSize": 64
+  },
+  {
+    "id": 2278,
+    "displayName": "Sulfur Ore",
+    "name": "sulfur_ore",
+    "stackSize": 64
+  },
+  {
+    "id": 2279,
+    "displayName": "Tin Ore",
+    "name": "tin_ore",
+    "stackSize": 64
+  },
+  {
+    "id": 1544,
+    "displayName": "Marble",
+    "name": "marble",
+    "stackSize": 64
+  },
+  {
+    "id": 1545,
+    "displayName": "Polished Marble",
+    "name": "marble",
+    "stackSize": 64
+  },
+  {
+    "id": 8434,
+    "displayName": "Copper Ore",
+    "name": "copper_ore",
+    "stackSize": 64
   }
 ]

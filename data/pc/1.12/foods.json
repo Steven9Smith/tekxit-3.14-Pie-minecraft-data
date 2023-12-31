@@ -370,5 +370,15 @@
     "saturation": 7.2,
     "effectiveQuality": 13.2,
     "saturationRatio": 1.2
+  },
+  {
+    "id": 2268,
+    "displayName": "Gysahl Green",
+    "stackSize": 64,
+    "name": "gysahl_green",
+    "foodPoints": 1,
+    "saturation": 0.6,
+    "effectiveQuality": 1.6,
+    "saturationRatio": 0.6
   }
 ]
