@@ -380,5 +380,14 @@
     "saturation": 0.6,
     "effectiveQuality": 1.6,
     "saturationRatio": 0.6
+  }, {
+    "id": 3240,
+    "displayName": "Kelp",
+    "name": "kelp",
+    "stackSize": 64,
+    "foodPoints": 1,
+    "saturation": 0.6,
+    "effectiveQuality": 1.6,
+    "saturationRatio": 0.6
   }
 ]

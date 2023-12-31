@@ -11959,5 +11959,45 @@
     "emitLight": 0, 
     "filterLight": 0, 
     "resistance": 0 
+}, 
+{
+  "id": 3258,
+  "displayName": "Seagrass",
+  "name": "seagrass",
+  "hardness": 0,
+  "stackSize": 64,
+  "diggable": true,
+  "boundingBox": "empty",
+  "material": "plants",
+  "harvestTools": {},
+  "drops": [{
+    "drop": 3258,
+    "minCount": 0,
+    "maxCount": 1
+  }],
+  "transparent": true,
+  "emitLight": 0,
+  "filterLight": 0,
+  "resistance": 0
+},
+{
+  "id": 3259,
+  "displayName": "Tall Seagrass",
+  "name": "tall_seagrass",
+  "hardness": 0,
+  "stackSize": 64,
+  "diggable": true,
+  "boundingBox": "empty",
+  "material": "plants",
+  "harvestTools": {},
+  "drops": [{
+    "drop":3259,
+    "minCount": 0,
+    "maxCount": 1
+  }],
+  "transparent": true,
+  "emitLight": 0,
+  "filterLight": 0,
+  "resistance": 0
 }
 ]

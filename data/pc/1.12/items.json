@@ -3274,5 +3274,15 @@
     "displayName": "Kelp",
     "name": "kelp",
     "stackSize": 64
+  },{
+    "id": 3258,
+    "displayName": "Seagrass",
+    "name": "seagrass",
+    "stackSize": 64
+  },{
+    "id": 3259,
+    "displayName": "Tall Seagrass",
+    "name": "tall_seagrass",
+    "stackSize": 64
   }
 ]
