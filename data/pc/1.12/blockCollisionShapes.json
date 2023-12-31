@@ -263,7 +263,12 @@
 "gysahl_green":0,
 "marble":1,
 "polished_marble":1,
-"kelp_mid":0
+"kelp_mid":0,
+"kelp": 0,
+"blue_coral":0,
+"blue_coral_block":1,
+"blue_coral_block_dead":1,
+"blue_coral_dead":0
 },
 "shapes":{"0":[],
 "1":[[0.0,0.0,0.0,1.0,1.0,1.0]],
