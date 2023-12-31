@@ -1,4 +1,6 @@
-# minecraft-data
+# tekxit-3.14-Pie-minecraft-data
+
+NOTE: this repo adds modded item information to minecraft 1.12 currently as I'm using it for an experiemnt.
 
 [![Discord](https://img.shields.io/badge/chat-on%20discord-brightgreen.svg)](https://discord.gg/GsEFRM8)
 [![Gitter](https://img.shields.io/badge/chat-on%20gitter-brightgreen.svg)](https://gitter.im/PrismarineJS/general)
