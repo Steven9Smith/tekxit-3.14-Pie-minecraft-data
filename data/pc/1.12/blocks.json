@@ -11603,33 +11603,6 @@
     "id": 256,
     "displayName": "Gysahl Green",
     "name": "gysahl_green",
-    "hardness": 0,
-    "stackSize": 64,
-    "diggable": true,
-    "boundingBox": "empty",
-    "material": "plant",
-    "variations": [
-      {
-        "metadata": 0,
-        "displayName": "Gysahl Green0"
-      },
-      {
-        "metadata": 1,
-        "displayName": "Gysahl Green1"
-      },
-      {
-        "metadata": 2,
-        "displayName": "Gysahl Green2"
-      },
-      {
-        "metadata": 3,
-        "displayName": "Gysahl Green3"
-      },
-      {
-        "metadata": 4,
-        "displayName": "Gysahl Green4"
-      }
-    ],
     "drops": [
       {
         "drop": 2268,
@@ -11637,10 +11610,47 @@
         "maxCount": 1
       }
     ],
-    "transparent": true,
-    "emitLight": 0,
-    "filterLight": 0,
-    "resistance": 0
+    "hardness": 0,  
+    "stackSize": 64, 
+    "diggable": true, 
+    "boundingBox": "empty",  
+    "material": "plant", 
+    "variations": [
+        {
+            "metadata": 0,
+            "displayName": "Gysahl Green",
+            "textures": { "cross": "chococraft:blocks/gysahl_green0" },
+            "description": "Age: 0"
+        },
+        {
+            "metadata": 1,
+            "displayName": "Gysahl Green",
+            "textures": { "cross": "chococraft:blocks/gysahl_green1" },
+            "description": "Age: 1"
+        },
+        {
+            "metadata": 2,
+            "displayName": "Gysahl Green",
+            "textures": { "cross": "chococraft:blocks/gysahl_green2" },
+            "description": "Age: 2"
+        },
+        {
+            "metadata": 3,
+            "displayName": "Gysahl Green",
+            "textures": { "cross": "chococraft:blocks/gysahl_green3" },
+            "description": "Age: 3"
+        },
+        {
+            "metadata": 4,
+            "displayName": "Gysahl Green",
+            "textures": { "cross": "chococraft:blocks/gysahl_green4" },
+            "description": "Age: 4"
+        }
+    ],
+    "transparent": true, 
+    "emitLight": 0, 
+    "filterLight": 0, 
+    "resistance": 0 
   },
   {
     "id": 299,
@@ -11871,5 +11881,85 @@
     "emitLight": 0,
     "filterLight": 15,
     "resistance": 3
-  }
+  },
+  {
+    "id": 8950,
+    "displayName": "Tube Coral",
+    "name": "blue_coral",
+    "hardness": 0,  
+    "stackSize": 64, 
+    "diggable": true, 
+    "boundingBox": "empty", 
+    "material": "plant",
+    "harvestTools": {},
+    "drops": [
+        {
+            "drop": 8950
+        }
+    ],
+    "transparent": true, 
+    "emitLight": 0, 
+    "filterLight": 0, 
+    "resistance": 0 
+},
+{
+    "id": 8930,
+    "displayName": "Tube Coral Block",
+    "name": "blue_coral_block",
+    "hardness": 1.5,
+    "stackSize": 64,
+    "diggable": true,
+    "boundingBox": "block",
+    "material": "rock",
+    "harvestTools": {},
+    "drops": [
+        {
+            "drop": 8930
+        }
+    ],
+    "transparent": false,
+    "emitLight": 0,
+    "filterLight": 15,
+    "resistance": 6
+},
+{
+    "id": 8935,
+    "displayName": "Blue Coral Block Dead",
+    "name": "blue_coral_block_dead",
+    "hardness": 1.5,
+    "stackSize": 64,
+    "diggable": true,
+    "boundingBox": "block",
+    "material": "rock",
+    "harvestTools": {},
+    "drops": [
+        {
+            "drop": 8935
+        }
+    ],
+    "transparent": false,
+    "emitLight": 0,
+    "filterLight": 15,
+    "resistance": 6
+},
+{
+    "id": 8955,
+    "displayName": "Blue Coral Dead",
+    "name": "blue_coral_dead",
+    "hardness": 0,  
+    "stackSize": 64, 
+    "diggable": true, 
+    "boundingBox": "empty", 
+    "material": "plant",
+    "harvestTools": {},
+    "drops": [
+        {
+            "drop": 8955
+        }
+    ],
+    "transparent": true, 
+    "emitLight": 0, 
+    "filterLight": 0, 
+    "resistance": 0 
+}
 ]

@@ -3245,5 +3245,29 @@
     "displayName": "Copper Ore",
     "name": "copper_ore",
     "stackSize": 64
+  },
+  {
+    "id": 8950,
+    "displayName": "Tube Coral",
+    "name": "blue_coral",
+    "stackSize": 64
+  },
+  {
+    "id": 8930,
+    "displayName": "Blue_Coral_Block",
+    "name": "blue_coral_block",
+    "stackSize": 64
+  },
+  {
+    "id": 8935,
+    "displayName": "Dead Tube Coral Block",
+    "name": "blue_coral_block_dead",
+    "stackSize": 64
+  },
+  {
+    "id": 8955,
+    "displayName": "Dead Tube Coral",
+    "name": "blue_coral_dead",
+    "stackSize": 64
   }
 ]
